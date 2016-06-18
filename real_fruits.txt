@@ -1,3 +1,7 @@
 apples
 bananas
 pineapples
+
+peaches
+pluots
+strawberries
